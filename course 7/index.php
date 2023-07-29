@@ -1,4 +1,9 @@
 <?php
+/* 
+developer : Reza Karimpour
+course playlist : https://www.youtube.com/playlist?list=PL5GIwh73N-unbhExotu7MWtgyeBRVSB0Y
+instagram : https://instagram.com/rezakarimpou.pro
+*/
 require 'bot.php';
 
 $contet = file_get_contents("php://input");
@@ -47,7 +52,7 @@ $inline= array(
 
 
 if($data == "wellcome"){
-       msg("answerCallbackQuery",array('callback_query_id'=>$call_id,text=>"salam",show_alert=>false));
+       msg("answerCallbackQuery",array('callback_query_id'=>$call_id,'text'=>"salam",'show_alert'=>false));
 
 }elseif($data == "change"){
       msg("editMessageText",array('chat_id'=>$chat_id,'message_id'=>$message_id,'text'=>"chi lazem dari?",'reply_markup'=>$inline2));
