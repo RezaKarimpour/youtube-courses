@@ -1,8 +1,7 @@
 <?php
 /* 
 developer : Reza Karimpour
-course playlist : https://www.youtube.com/playlist?list=PL5GIwh73N-unbhExotu7MWtgyeBRVSB0Y
-instagram : https://instagram.com/rezakarimpou.pro
+course playlist : https://www.youtube.com/playlist?list=PL5GIwh73N-umSg25tL0k-GLUtMKFy0ykI
 */
 ///////// variables -متغییر ها /////////////
 $a = 3; //عدد صحیح  int

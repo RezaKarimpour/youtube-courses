@@ -1,7 +1,7 @@
 <?php
 /* 
 developer : Reza Karimpour
-course playlist : https://www.youtube.com/playlist?list=PL5GIwh73N-unbhExotu7MWtgyeBRVSB0Y
+course playlist : https://www.youtube.com/playlist?list=PL5GIwh73N-umSg25tL0k-GLUtMKFy0ykI
 instagram : https://instagram.com/rezakarimpou.pro
 */
 // $a = rand(10000,100000);
