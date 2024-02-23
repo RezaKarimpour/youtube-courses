@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\my Social media\rootone\code\c++\Course 8\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(73,23): error C2065: 'name': undeclared identifier
+D:\my Social media\rootone\code\c++\Course 8\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(73,55): error C2065: 'lname': undeclared identifier
+D:\my Social media\rootone\code\c++\Course 8\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(73,82): error C2065: 'age': undeclared identifier
