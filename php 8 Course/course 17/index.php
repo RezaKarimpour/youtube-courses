@@ -2,13 +2,6 @@
 
 
 
-
-
-
-
-
-
-
 $db = new SQLite3('mysqlitedb.db');
 
 // $db = new mysqli('localhost', 'root', '', 'university2');
